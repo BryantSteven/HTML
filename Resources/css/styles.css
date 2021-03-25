@@ -216,4 +216,15 @@ html {
     margin: 0;
     padding: 0;
     display: block;
+    color: antiquewhite;
+  }
+  li a {
+    display: block;
+    color: antiquewhite;
+  }
+
+  #welcome-message {
+    color: white;
+    background-color: darkgray;
+    padding: 1.5rem;
   }
